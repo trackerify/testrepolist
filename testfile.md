@@ -1,1 +1,1 @@
-so ein shit das des net läuft
+now it works and build the automation documentation
